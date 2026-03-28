@@ -56,6 +56,7 @@ st.markdown("""
     .price-range { font-size: 1rem; opacity: 0.75; margin-top: 0.5rem; }
     .metric-card { background: #f8fafc; border-radius: 12px; padding: 1rem;
                    border: 1px solid #e2e8f0; text-align: center; }
+    #MainMenu, footer, header { visibility: hidden; }
 </style>
 """, unsafe_allow_html=True)
 
