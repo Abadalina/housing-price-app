@@ -33,7 +33,7 @@ housing-price-app/
 
 ## Model
 
-The XGBoost model was trained in [housing-price-ml](https://github.com/alejandroabadal/housing-price-ml) (Project 2 of this portfolio):
+The XGBoost model was trained in [housing-price-ml](https://github.com/Abadalina/housing-price-ml) (Project 2 of this portfolio):
 
 | Metric | Value |
 |--------|-------|
@@ -48,7 +48,7 @@ Target variable: `log1p(price)` → expm1 to recover euros.
 ## Installation & usage
 
 ```bash
-git clone https://github.com/alejandroabadal/housing-price-app.git
+git clone https://github.com/Abadalina/housing-price-app.git
 cd housing-price-app
 pip install -r requirements.txt
 streamlit run app.py
@@ -71,10 +71,10 @@ The app opens at `http://localhost:8501`.
 
 | # | Project | Description |
 |---|---------|-------------|
-| 1 | [spain-rental-eda](https://github.com/alejandroabadal/spain-rental-eda) | Exploratory data analysis |
-| 2 | [housing-price-ml](https://github.com/alejandroabadal/housing-price-ml) | ML price prediction |
-| 3 | [rental-price-forecast](https://github.com/alejandroabadal/rental-price-forecast) | Time series forecasting |
-| 4 | [airbnb-reviews-nlp](https://github.com/alejandroabadal/airbnb-reviews-nlp) | NLP sentiment & topic analysis |
+| 1 | [spain-rental-eda](https://github.com/Abadalina/spain-rental-eda) | Exploratory data analysis |
+| 2 | [housing-price-ml](https://github.com/Abadalina/housing-price-ml) | ML price prediction |
+| 3 | [rental-price-forecast](https://github.com/Abadalina/rental-price-forecast) | Time series forecasting |
+| 4 | [airbnb-reviews-nlp](https://github.com/Abadalina/airbnb-reviews-nlp) | NLP sentiment & topic analysis |
 | 5 | **housing-price-app** | Streamlit deployment ← you are here |
 
 ---
@@ -82,7 +82,7 @@ The app opens at `http://localhost:8501`.
 ## Author
 
 **Alejandro Abadal** — Data Science Student, UOC
-[LinkedIn](#) · [GitHub](https://github.com/alejandroabadal)
+[LinkedIn](#) · [GitHub](https://github.com/Abadalina)
 
 ---
 
